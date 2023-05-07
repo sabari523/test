@@ -1,0 +1,22 @@
+{
+  "dialogBtnExtraTxt": "Button2",
+  "dialogBtnExtraClick": "dismiss",
+  "dialogBtnMainTxt": "Join Now",
+  "dialogOption": "update",
+  "openLinkMain": "www.google.com",
+  "currVersion": "1.0",
+  "openLinkExtra": "extra_buttonopen00",
+  "dialogBtnMainClick": "browser",
+  "dialogSubtitle": "Sketchify connected successfully, please for support join my telegram channel ",
+  "isOneTime": "oneistime000",
+  "dialogBtnMain": "true",
+  "developer": "uid",
+  "alertOption": "dialog",
+  "dialogTitle": "Update released!",
+  "dialogBtnExtra": "true",
+  "isCancelable": "false",
+  "email": "email0",
+  "isOneTimeKey": "onetime00",
+  "newVersion": "1.2",
+ "server" : "vTmumYSsCQfbmfMXbXX4SKTqWjh2test.json"
+}
